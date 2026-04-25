@@ -46,7 +46,7 @@ I have attached 2 zip files in the email:
 3. Run the app with:
 
 ```bash
-java -jar target/book-0.0.1-SNAPSHOT.jar
+java -jar book-0.0.1-SNAPSHOT.jar
 ```
 
 ### If you use the source-code zip
